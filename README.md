@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-links-profile-in-pure-css-lgQaeEEcYs](https://www.frontendmentor.io/solutions/social-links-profile-in-pure-css-lgQaeEEcYs)
+- Live Site URL: [https://social-links-profile-phi-cyan.vercel.app/](https://social-links-profile-phi-cyan.vercel.app/)
 
 ## My process
 
